@@ -1,0 +1,1684 @@
+{
+  "gifts": [
+    {
+      "id": 1,
+      "name": "Khabib's Papakha",
+      "image": "gift_001.png",
+      "url": "https://i.postimg.cc/cHBTwMPL/IMG_7670.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 2,
+      "name": "Mood pack",
+      "image": "gift_002.png",
+      "url": "https://i.postimg.cc/zBr0yP2V/IMG_7671.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 3,
+      "name": "Timeless book",
+      "image": "gift_003.png",
+      "url": "https://i.postimg.cc/sXrwM0HB/IMG_7672.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 4,
+      "name": "Pool float",
+      "image": "gift_004.png",
+      "url": "https://i.postimg.cc/gJH48q1k/IMG_7673.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 5,
+      "name": "Westside Sign",
+      "image": "gift_005.png",
+      "url": "https://i.postimg.cc/vBs34S2w/IMG_7674.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 6,
+      "name": "Low rider",
+      "image": "gift_006.png",
+      "url": "https://i.postimg.cc/B60Mjw7j/IMG_7675.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 7,
+      "name": "Snoop cigar",
+      "image": "gift_007.png",
+      "url": "https://i.postimg.cc/Qt30FnYC/IMG_7676.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 8,
+      "name": "Swag bag",
+      "image": "gift_008.png",
+      "url": "https://i.postimg.cc/BvDmQGpG/IMG_7677.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 9,
+      "name": "Snoop dog",
+      "image": "gift_009.png",
+      "url": "https://i.postimg.cc/rmkQDYnn/IMG_7678.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 10,
+      "name": "Rare bird",
+      "image": "gift_010.png",
+      "url": "https://i.postimg.cc/3RTnkbSc/IMG_7679.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 11,
+      "name": "Chill flame",
+      "image": "gift_011.png",
+      "url": "https://i.postimg.cc/VNMKLcRH/IMG_7680.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 12,
+      "name": "Bling binky",
+      "image": "gift_012.png",
+      "url": "https://i.postimg.cc/cJYF4Nm2/IMG_7681.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 13,
+      "name": "Ice cream",
+      "image": "gift_013.png",
+      "url": "https://i.postimg.cc/25v08fGp/IMG_7682.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 14,
+      "name": "Vice cream",
+      "image": "gift_014.png",
+      "url": "https://i.postimg.cc/mrMm2Gww/IMG_7683.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 15,
+      "name": "Spring basket",
+      "image": "gift_015.png",
+      "url": "https://i.postimg.cc/43tWNT5w/IMG_7685.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 16,
+      "name": "Artisan Brick",
+      "image": "gift_016.png",
+      "url": "https://i.postimg.cc/fbX8ThKH/IMG_7687.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 17,
+      "name": "Happy brownie",
+      "image": "gift_017.png",
+      "url": "https://i.postimg.cc/8CWZPVHL/IMG_7688.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 18,
+      "name": "Faith Amulet",
+      "image": "gift_018.png",
+      "url": "https://i.postimg.cc/rpWfFLJG/IMG_7689.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 19,
+      "name": "Moon pendant",
+      "image": "gift_019.png",
+      "url": "https://i.postimg.cc/JhJp4Wqc/IMG_7690.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 20,
+      "name": "Clover pin",
+      "image": "gift_020.png",
+      "url": "https://i.postimg.cc/L8Gypsz3/IMG_7691.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 21,
+      "name": "Money pot",
+      "image": "gift_021.png",
+      "url": "https://i.postimg.cc/TPmtYX9W/IMG_7692.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 22,
+      "name": "Neko helmet",
+      "image": "gift_022.png",
+      "url": "https://i.postimg.cc/9fTLFjp7/IMG_7693.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 23,
+      "name": "Mousse cake",
+      "image": "gift_023.png",
+      "url": "https://i.postimg.cc/bw46hvQk/IMG_7694.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 24,
+      "name": "Pretty posy",
+      "image": "gift_024.png",
+      "url": "https://i.postimg.cc/BnRh0vxT/IMG_7695.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 25,
+      "name": "Mighty arm",
+      "image": "gift_025.png",
+      "url": "https://i.postimg.cc/9QsxhfGt/IMG_7696.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 26,
+      "name": "Heroic helmet",
+      "image": "gift_026.png",
+      "url": "https://i.postimg.cc/rw7hkpSd/IMG_7697.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 27,
+      "name": "Top hat",
+      "image": "gift_027.png",
+      "url": "https://i.postimg.cc/g21MW0v6/IMG_7698.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 28,
+      "name": "Bow tie",
+      "image": "gift_028.png",
+      "url": "https://i.postimg.cc/K8C92YnM/IMG_7699.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 29,
+      "name": "Light sword",
+      "image": "gift_029.png",
+      "url": "https://i.postimg.cc/W1x9v4M3/IMG_7700.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 30,
+      "name": "Boned ring",
+      "image": "gift_030.png",
+      "url": "https://i.postimg.cc/NjZNc01F/IMG_7701.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 31,
+      "name": "Nail Bracelet",
+      "image": "gift_031.png",
+      "url": "https://i.postimg.cc/x1Bs2dKX/IMG_7702.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 32,
+      "name": "Valentine box",
+      "image": "gift_032.png",
+      "url": "https://i.postimg.cc/wjnWpBhH/IMG_7703.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 33,
+      "name": "Love potion",
+      "image": "gift_033.png",
+      "url": "https://i.postimg.cc/HkFSgLQk/IMG_7704.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 34,
+      "name": "Toy bear",
+      "image": "gift_034.png",
+      "url": "https://i.postimg.cc/g21MW0v0/IMG_7705.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 35,
+      "name": "Diamond ring",
+      "image": "gift_035.png",
+      "url": "https://i.postimg.cc/fRVHpd0b/IMG_7706.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 36,
+      "name": "Cupid charm",
+      "image": "gift_036.png",
+      "url": "https://i.postimg.cc/g21MW0vW/IMG_7707.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 37,
+      "name": "Restless jar",
+      "image": "gift_037.png",
+      "url": "https://i.postimg.cc/bw46hvQP/IMG_7708.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 38,
+      "name": "Loot bag",
+      "image": "gift_038.png",
+      "url": "https://i.postimg.cc/kg2jzStd/IMG_7709.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 39,
+      "name": "Sky stilettos",
+      "image": "gift_039.png",
+      "url": "https://i.postimg.cc/x1XshmbQ/IMG_7710.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 40,
+      "name": "Lunar snake",
+      "image": "gift_040.png",
+      "url": "https://i.postimg.cc/nhXdgmQV/IMG_7711.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 41,
+      "name": "Big year",
+      "image": "gift_041.png",
+      "url": "https://i.postimg.cc/g2xMQhL5/IMG_7712.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 42,
+      "name": "Pet snake",
+      "image": "gift_042.png",
+      "url": "https://i.postimg.cc/NjKNSX2Z/IMG_7713.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 43,
+      "name": "Snake box",
+      "image": "gift_043.png",
+      "url": "https://i.postimg.cc/0yztFSJR/IMG_7714.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 44,
+      "name": "Tama gadget",
+      "image": "gift_044.png",
+      "url": "https://i.postimg.cc/bwZ6WnS6/IMG_7715.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 45,
+      "name": "Candy cane",
+      "image": "gift_045.png",
+      "url": "https://i.postimg.cc/15CCvBXd/IMG_7716.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 46,
+      "name": "Xmas stocking",
+      "image": "gift_046.png",
+      "url": "https://i.postimg.cc/9QDxK9w1/IMG_7717.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 47,
+      "name": "Cookie heart",
+      "image": "gift_047.png",
+      "url": "https://i.postimg.cc/kX11TsGW/IMG_7718.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 48,
+      "name": "Heart locket",
+      "image": "gift_048.png",
+      "url": "https://i.postimg.cc/zXttx7vc/IMG_7719.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 49,
+      "name": "Ginger cookie",
+      "image": "gift_049.png",
+      "url": "https://i.postimg.cc/BQYYmpbg/IMG_7720.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 50,
+      "name": "Winter wreath",
+      "image": "gift_050.png",
+      "url": "https://i.postimg.cc/Dyjjx608/IMG_7721.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 51,
+      "name": "Santa hat",
+      "image": "gift_051.png",
+      "url": "https://i.postimg.cc/SNTTgdRY/IMG_7722.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 52,
+      "name": "Snow globe",
+      "image": "gift_052.png",
+      "url": "https://i.postimg.cc/gkSSgsjR/IMG_7723.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 53,
+      "name": "Snow mittens",
+      "image": "gift_053.png",
+      "url": "https://i.postimg.cc/bNNV0WyZ/IMG_7724.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 54,
+      "name": "Sleigh bell",
+      "image": "gift_054.png",
+      "url": "https://i.postimg.cc/WbbYmCNZ/IMG_7725.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 55,
+      "name": "Jester hat",
+      "image": "gift_055.png",
+      "url": "https://i.postimg.cc/qMMDcSJ8/IMG_7726.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 56,
+      "name": "Star notepad",
+      "image": "gift_056.png",
+      "url": "https://i.postimg.cc/hPPZ86Dv/IMG_7727.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 57,
+      "name": "Bunny muffin",
+      "image": "gift_057.png",
+      "url": "https://i.postimg.cc/VLLZ9pf5/IMG_7728.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 58,
+      "name": "Swiss watch",
+      "image": "gift_058.png",
+      "url": "https://i.postimg.cc/nccSKgFC/IMG_7729.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 59,
+      "name": "Genie lamp",
+      "image": "gift_059.png",
+      "url": "https://i.postimg.cc/9FFgPKm5/IMG_7730.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 60,
+      "name": "Astral shard",
+      "image": "gift_060.png",
+      "url": "https://i.postimg.cc/m22p3JLT/IMG_7731.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 61,
+      "name": "Precious peach",
+      "image": "gift_061.png",
+      "url": "https://i.postimg.cc/nccSKgFH/IMG_7732.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 62,
+      "name": "Plush Pepe",
+      "image": "gift_062.png",
+      "url": "https://i.postimg.cc/pVB1FRHP/IMG_7733.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 63,
+      "name": "Handing star",
+      "image": "gift_063.png",
+      "url": "https://i.postimg.cc/XNgDC4bV/IMG_7734.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 64,
+      "name": "Durov's caps",
+      "image": "gift_064.png",
+      "url": "https://i.postimg.cc/2889dMzP/IMG_7735.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 65,
+      "name": "Perfume bottle",
+      "image": "gift_065.png",
+      "url": "https://i.postimg.cc/gkktyQYC/IMG_7736.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 66,
+      "name": "Mini Oskar",
+      "image": "gift_066.png",
+      "url": "https://i.postimg.cc/xjPFzn2r/IMG_7737.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 67,
+      "name": "Berry box",
+      "image": "gift_067.png",
+      "url": "https://i.postimg.cc/wxkbmgpg/IMG_7738.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 68,
+      "name": "Vintage cigar",
+      "image": "gift_068.png",
+      "url": "https://i.postimg.cc/dQ9SywKj/IMG_7739.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 69,
+      "name": "Record player",
+      "image": "gift_069.png",
+      "url": "https://i.postimg.cc/L4V012MQ/IMG_7740.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 70,
+      "name": "Magic potion",
+      "image": "gift_070.png",
+      "url": "https://i.postimg.cc/2jxXZrfM/IMG_7741.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 71,
+      "name": "Electric skull",
+      "image": "gift_071.png",
+      "url": "https://i.postimg.cc/brLCcHTd/IMG_7742.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 72,
+      "name": "Kissed frog",
+      "image": "gift_072.png",
+      "url": "https://i.postimg.cc/wMFf8cV7/IMG_7743.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 73,
+      "name": "Party sparkler",
+      "image": "gift_073.png",
+      "url": "https://i.postimg.cc/VsFHCmch/IMG_7744.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 74,
+      "name": "Jingle bells",
+      "image": "gift_074.png",
+      "url": "https://i.postimg.cc/Y2xyWMwJ/IMG_7745.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 75,
+      "name": "Jelly bunny",
+      "image": "gift_075.png",
+      "url": "https://i.postimg.cc/Hn3ZD42L/IMG_7746.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 76,
+      "name": "Joyful bundle",
+      "image": "gift_076.png",
+      "url": "https://i.postimg.cc/j2vg0QXW/IMG_7747.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 77,
+      "name": "Jolly chimp",
+      "image": "gift_077.png",
+      "url": "https://i.postimg.cc/wMFf8cVq/IMG_7748.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 78,
+      "name": "Instant ramen",
+      "image": "gift_078.png",
+      "url": "https://i.postimg.cc/Znj7tFc5/IMG_7749.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 79,
+      "name": "Holiday drink",
+      "image": "gift_079.png",
+      "url": "https://i.postimg.cc/KjQqSrNz/IMG_7750.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 80,
+      "name": "Victory medal",
+      "image": "gift_080.png",
+      "url": "https://i.postimg.cc/6qzjJLhb/IMG_7751.png",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 81,
+      "name": "Stellar rocket",
+      "image": "gift_081.png",
+      "url": "https://i.postimg.cc/yxnQ4XT5/IMG_7752.png",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 82,
+      "name": "Ionic dryer",
+      "image": "gift_082.png",
+      "url": "https://i.postimg.cc/MHtP2bYL/IMG_7753.png",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 83,
+      "name": "Fresh socks",
+      "image": "gift_083.png",
+      "url": "https://i.postimg.cc/L5mCb0zF/IMG_7754.png",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 84,
+      "name": "Input key",
+      "image": "gift_084.png",
+      "url": "https://i.postimg.cc/hvKy539W/IMG_7755.png",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 85,
+      "name": "Lush bouquet",
+      "image": "gift_085.png",
+      "url": "https://i.postimg.cc/L5vCKBV0/IMG_7756.png",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 86,
+      "name": "Signet ring",
+      "image": "gift_086.png",
+      "url": "https://i.postimg.cc/QCj4yncP/IMG_7757.png",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 87,
+      "name": "Spiced vine",
+      "image": "gift_087.png",
+      "url": "https://i.postimg.cc/x89x4FLW/IMG_7758.png",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 88,
+      "name": "Love candle",
+      "image": "gift_088.png",
+      "url": "https://i.postimg.cc/qqpb5Z8f/IMG_7759.png",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 89,
+      "name": "Eternal rose",
+      "image": "gift_089.png",
+      "url": "https://i.postimg.cc/sx36N056/IMG_7760.png",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 90,
+      "name": "Jack-in-the-box",
+      "image": "gift_090.png",
+      "url": "https://i.postimg.cc/tJ9SMmFM/IMG_7761.png",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 91,
+      "name": "Gem signet",
+      "image": "gift_091.png",
+      "url": "https://i.postimg.cc/mkTX567K/IMG_7762.png",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 92,
+      "name": "Easter egg",
+      "image": "gift_092.png",
+      "url": "https://i.postimg.cc/ydmpnz3T/IMG_7763.png",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 93,
+      "name": "Hypno lollipop",
+      "image": "gift_093.png",
+      "url": "https://i.postimg.cc/J0R62djp/IMG_7764.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 94,
+      "name": "Hex pot",
+      "image": "gift_094.png",
+      "url": "https://i.postimg.cc/XqnHzD9m/IMG_7765.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 95,
+      "name": "Sharp tongue",
+      "image": "gift_095.png",
+      "url": "https://i.postimg.cc/RF7pGzJH/IMG_7766.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 96,
+      "name": "Mad pumpkin",
+      "image": "gift_096.png",
+      "url": "https://i.postimg.cc/MT73t8fy/IMG_7767.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 97,
+      "name": "Trapped heart",
+      "image": "gift_097.png",
+      "url": "https://i.postimg.cc/L5mCb0jg/IMG_7768.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 98,
+      "name": "Skull flower",
+      "image": "gift_098.png",
+      "url": "https://i.postimg.cc/sXYHKRG1/IMG_7769.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 99,
+      "name": "Crystal ball",
+      "image": "gift_099.png",
+      "url": "https://i.postimg.cc/bJxVLjSx/IMG_7770.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 100,
+      "name": "Flying broom",
+      "image": "gift_100.png",
+      "url": "https://i.postimg.cc/xCvpgSNT/IMG_7771.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 101,
+      "name": "Voodoo doll",
+      "image": "gift_101.png",
+      "url": "https://i.postimg.cc/DZrp5K47/IMG_7772.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 102,
+      "name": "Scared cat",
+      "image": "gift_102.png",
+      "url": "https://i.postimg.cc/4d62wTHZ/IMG_7773.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 103,
+      "name": "Witch hat",
+      "image": "gift_103.png",
+      "url": "https://i.postimg.cc/B6T7NGP0/IMG_7774.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 104,
+      "name": "Eternal candle",
+      "image": "gift_104.png",
+      "url": "https://i.postimg.cc/PxsFmqxg/IMG_7775.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 105,
+      "name": "Spy agaric",
+      "image": "gift_105.png",
+      "url": "https://i.postimg.cc/xCvpgSNn/IMG_7776.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 106,
+      "name": "Sakura flower",
+      "image": "gift_106.png",
+      "url": "https://i.postimg.cc/1thYpztd/IMG_7777.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 107,
+      "name": "Homemade cake",
+      "image": "gift_107.png",
+      "url": "https://i.postimg.cc/MT2ryGTd/IMG_7778.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 108,
+      "name": "Desk calendar",
+      "image": "gift_108.png",
+      "url": "https://i.postimg.cc/QtGnpMt6/IMG_7779.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 109,
+      "name": "B-day candle",
+      "image": "gift_109.png",
+      "url": "https://i.postimg.cc/Bv1VLFqy/IMG_7780.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 110,
+      "name": "Lol pop",
+      "image": "gift_110.png",
+      "url": "https://i.postimg.cc/mrF5z9bd/IMG_7790.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 111,
+      "name": "Whip cupcake",
+      "image": "gift_111.png",
+      "url": "https://i.postimg.cc/rptP048f/IMG_7791.png",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 112,
+      "name": "Evil eye",
+      "image": "gift_112.png",
+      "url": "https://i.postimg.cc/MGjFMBWt/IMG_7792.png",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 113,
+      "name": "UFC strike",
+      "image": "gift_113.png",
+      "url": "https://i.postimg.cc/MGjFMBWd/IMG_7793.png",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 114,
+      "name": "Ion gem",
+      "image": "gift_114.png",
+      "url": "https://i.postimg.cc/TPW4LbR9/IMG_7794.png",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 115,
+      "name": "Durov's boots",
+      "image": "gift_115.png",
+      "url": "https://i.postimg.cc/SKvy50n2/IMG_7889.png",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 116,
+      "name": "Durov's coat",
+      "image": "gift_116.png",
+      "url": "https://i.postimg.cc/ZqMTgkW9/IMG_7888.png",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 117,
+      "name": "Durov's figurine",
+      "image": "gift_117.png",
+      "url": "https://i.postimg.cc/XvJjQNYw/WEBP_Ag_AD64UAAvsb_SEs.webp",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 118,
+      "name": "Gravestone",
+      "image": "gift_118.png",
+      "url": "https://i.postimg.cc/mr5bqxPF/IMG_7890.png",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 119,
+      "name": "Mask",
+      "image": "gift_119.png",
+      "url": "https://i.postimg.cc/PqRtcGCD/IMG_7892.png",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    },
+    {
+      "id": 120,
+      "name": "Coffin",
+      "image": "gift_120.png",
+      "url": "https://i.postimg.cc/bvBzMXZS/IMG_7891.png",
+      "position": {
+        "x": 130,
+        "y": 30
+      },
+      "size": {
+        "w": 250,
+        "h": 250
+      }
+    }
+  ]
+}
